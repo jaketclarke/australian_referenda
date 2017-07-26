@@ -250,7 +250,6 @@ NSW,Greenacre,Greenacre YMCA Roberts Park,Waterloo Rd,GREENACRE,2190.0,F
 NSW,Greenacre West,Holy Savior Melkite Catholic School,80 Waterloo Road,GREENACRE,2190.0,A
 NSW,Mount Lewis,Mount Lewis Infants School,Noble Ave,MOUNT LEWIS,2190.0,A
 NSW,Parry Park,Wiley Park Scout Hall,33 Koala Rd,WILEY PARK,2195.0,F
-NSW,Punchbowl,Punchbowl Public School,1333 Canterbury Rd,PUNCHBOWL,2196.0,A
 NSW,Punchbowl Central,Punchbowl Boys High School,Kelly St,PUNCHBOWL,2196.0,N
 NSW,St Pauls,St Pauls Church Bankstown,459 Chapel Rd,BANKSTOWN,2200.0,A
 NSW,Sefton,Sefton Catholic School,Proctor Pde,SEFTON,2162.0,N
@@ -294,7 +293,6 @@ NSW,St Ives South,St Ives High School,Yarrabung Rd,ST IVES,2075.0,N
 NSW,Turramurra,St James Anglican Church Hall,King St,TURRAMURRA,2074.0,A
 NSW,Turramurra Central,Turramurra Uniting Church Hall,Turramurra Ave,TURRAMURRA,2074.0,A
 NSW,Turramurra North,Turramurra North Public School,Bobbin Head Rd,TURRAMURRA,2074.0,N
-NSW,Turramurra South,Turramurra Public School,Kissing Point Rd,SOUTH TURRAMURRA,2074.0,A
 NSW,Wahroonga,St Andrews Anglican Church Hall,Cleveland St,WAHROONGA,2076.0,N
 NSW,Wahroonga East,Wahroonga Public School,71 Burns Rd,WAHROONGA,2076.0,A
 NSW,Barry,Community Hall,Selwyn St,BARRY,2799.0,N
@@ -972,7 +970,6 @@ NSW,Blacktown East,Mitchell High School,Cnr Pendant Ave & Keyworth Dr,BLACKTOWN,
 NSW,Blacktown Hospital,Blacktown Hospital,Blacktown Rd,BLACKTOWN,2148.0,F
 NSW,Blacktown North,Blacktown Boys High School,Fifth Ave,BLACKTOWN,2148.0,N
 NSW,Blacktown South,Blacktown South Public School,183 Flushcombe Rd,BLACKTOWN,2148.0,N
-NSW,Blacktown West,Blacktown West Public School,Lancaster St,BLACKTOWN,2148.0,N
 NSW,Dean Park,William Dean Public School,Yarramundi Dr,DEAN PARK,2761.0,A
 NSW,Glenwood,Parklea Public School,Glenwood Park Dr,GLENWOOD,2768.0,A
 NSW,Grantham,Grantham High School,Best Rd,SEVEN HILLS,2147.0,A
@@ -1004,7 +1001,6 @@ NSW,Seven Hills High,Seven Hills High School,Johnson Ave,SEVEN HILLS,2147.0,N
 NSW,Seven Hills North,Seven Hills North Public School,301 Seven Hills Rd,SEVEN HILLS,2147.0,N
 NSW,Seven Hills West,Seven Hills West Public School,Cnr Lucas Rd & Sackville St,SEVEN HILLS,2147.0,N
 NSW,Vineyard East,Vineyard Public School,4 Bandon Rd,VINEYARD,2765.0,N
-NSW,Walters Road,Walters Road Public School,158 Walters Rd,BLACKTOWN,2148.0,N
 NSW,Woodcroft,Dept Public Works/Servs-Met NW,236 Richmond Rd,WOODCROFT,2767.0,A
 NSW,Ashford,Ashford Central School,51 Martyn St,ASHFORD,2361.0,A
 NSW,Baan Baa,Baan Baa Public School,Curracaba Rd,BAAN BAA,2383.0,N
@@ -1122,7 +1118,6 @@ NSW,Prince Edward Park,Life Saving Club,Prince Edward Park Rd,WORONORA,2232.0,N
 NSW,Sandy Point,Sandy Point Community Centre,St George Cres,SANDY POINT,2171.0,A
 NSW,Stanwell Park,Stanwell Park Public School,Stanwell Ave,STANWELL PARK,2508.0,N
 NSW,Sutherland,Sutherland Public School,Eton St,SUTHERLAND,2232.0,N
-NSW,Sutherland East,Presbyterian Pre School,Cnr Flora & Glencoe Sts,SUTHERLAND,2232.0,A
 NSW,Sutherland West,Sutherland Masonic Hall,East Pde,SUTHERLAND,2232.0,N
 NSW,Waterfall,Waterfall Public School,McKell Ave,WATERFALL,2233.0,N
 NSW,Wattle Grove,Wattle Grove Community Centre,Village Way,WATTLE GROVE,2173.0,F
@@ -1194,7 +1189,6 @@ NSW,Reids Flat,Reids Flat Public School,Albert St,REIDS FLAT,2586.0,N
 NSW,Rugby,Rugby Public School,Boorowa/Crookwell Rd,RUGBY,2583.0,A
 NSW,Rye Park,Rye Park Public School,Hume St,RYE PARK,2586.0,N
 NSW,Stockinbingal,Stockinbingal Public School,Cambria St,STOCKINBINGAL,2725.0,N
-NSW,Sutton,Sutton Public School,Victoria St,SUTTON,2620.0,N
 NSW,Talbingo,Talbingo Public School,Lampe St,TALBINGO,2720.0,N
 NSW,Tarago,Tarago Town Hall,Wallace St,TARAGO,2580.0,A
 NSW,Taralga,Taralga Memorial Hall,Orchard St,TARALGA,2580.0,A
@@ -2397,7 +2391,6 @@ NSW,Glebe East,Glebe Primary School,Glebe Point Rd,GLEBE,2037.0,N
 NSW,Glebe North,Glebe High School,Cnr Bridge Rd & Taylor St,GLEBE,2037.0,N
 NSW,Glenmore,St Georges Church Hall,245 Glenmore Rd,PADDINGTON,2021.0,N
 NSW,Holdsworth,Holdsworth Centre,Holdsworth St,WOOLLAHRA,2025.0,N
-NSW,Hyde Park,Unitarian Church Hall,15 Francis St,EAST SYDNEY,2010.0,N
 NSW,Kings Cross,St Johns Anglican Church Hall,120 Darlinghurst Rd,DARLINGHURST,2010.0,N
 NSW,Lilyfield,Orange Grove Public School,Perry St,LILYFIELD,2040.0,N
 NSW,Lilyfield North,St Marks Church Hall,31 O'Neill St,LILYFIELD,2040.0,N
