@@ -783,7 +783,7 @@ NSW,Finley,Finley High School,Tocumwal St,FINLEY,2713.0,F,2007 Polling Places,"M
 NSW,Gerogery,Gerogery Commemoration Hall,Bent St,GEROGERY,2642.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-35.8364,146.99200000000002
 NSW,Glenroy,Glenroy Public School,Logan Rd,NORTH ALBURY,2640.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-36.0556,146.917
 NSW,Gol Gol,Gol Gol Public School,William St,GOL GOL,2738.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-34.1789,142.221
-NSW,Hatfield,Hatfield Public School,Courtney Dr,HATFIELD,2715.0,N,google geocode,failed,,
+NSW,Hatfield,Hatfield Public School,Courtney Dr,HATFIELD,2715.0,N,ABS Suburb Centroids,Match 10 - suburb centroid,-33.74705707,143.68477119999997
 NSW,Henty,Henty Public School,Sladen St,HENTY,2658.0,F,2007 Polling Places,"Match 01 - state, premises, postcode",-35.5166,147.029
 NSW,Holbrook,Holbrook Public School,Hume Hwy,HOLBROOK,2644.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-35.7175,147.319
 NSW,Howlong,Howlong Public School,Hawkins St,HOWLONG,2643.0,F,2007 Polling Places,"Match 01 - state, premises, postcode",-35.9806,146.636
@@ -827,7 +827,7 @@ NSW,Walbundrie,Walbundrie Public School,Culcairn Rd,WALBUNDRIE,2642.0,N,2007 Pol
 NSW,Walla Walla,Walla Walla Public School,Commercial St,WALLA WALLA,2659.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-35.7591,146.90200000000002
 NSW,Wanganella,Wanganella Public Hall,Cobb Hwy,WANGANELLA,2710.0,N,2007 Polling Places,"Match 05 - state, polling_place, postcode",-35.2126,144.819
 NSW,Wentworth,Wentworth Public School,Darling St,WENTWORTH,2648.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-34.103,141.91899999999998
-NSW,Womboota,Womboota School of Arts,Morris St,WOMBOOTA,2731.0,N,google geocode,failed,,
+NSW,Womboota,Womboota School of Arts,Morris St,WOMBOOTA,2731.0,N,ABS Suburb Centroids,Match 10 - suburb centroid,-35.90189126,144.5586414
 NSW,Woomargama,Woomargama Community Hall,Murray St,WOOMARGAMA,2644.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-35.8362,147.244
 NSW,Ashcroft,Ashcroft Public School,Sheriff St,ASHCROFT,2168.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-33.9168,150.899
 NSW,Bonnyrigg,Bonnyrigg Public School,Tarlington Pde,BONNYRIGG,2177.0,F,2007 Polling Places,"Match 01 - state, premises, postcode",-33.8884,150.888
@@ -1270,7 +1270,7 @@ NSW,Scone High School,Scone High School,Gundy Rd,SCONE,2337.0,A,2007 Polling Pla
 NSW,Singleton,Singleton Public School,Hunter St,SINGLETON,2330.0,F,2007 Polling Places,"Match 01 - state, premises, postcode",-32.5633,151.174
 NSW,Singleton East,Anglican Parish Hall,Goulburn St,SINGLETON,2330.0,A,2007 Polling Places,"Match 05 - state, polling_place, postcode",-32.5634,151.178
 NSW,Singleton Heights,Singleton Heights Public School,Dorsman Dr,SINGLETON,2330.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-32.5489,151.162
-NSW,Singleton Military Camp,Hall,Infantry Dr,SINGLETON MILPO,2331.0,N,google geocode,failed,,
+NSW,Singleton Military Camp,Hall,Infantry Dr,SINGLETON MILPO,2331.0,N,manual,manual,-32.628924,151.175605
 NSW,Singleton South,Singleton High School,York St,SINGLETON,2330.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-32.5684,151.17700000000002
 NSW,Spring Ridge,Spring Ridge Public School,Darby Rd,SPRING RIDGE,2343.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-31.3926,150.252
 NSW,Stanford Merthyr,Stanford Merthyr Public School,Maitland St,STANFORD MERTHYR,2327.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-32.8298,151.497
@@ -1597,7 +1597,7 @@ NSW,Mount Riverview,Mount Riverview Public School,Rusden Rd,MOUNT RIVERVIEW,2774
 NSW,Mount Victoria,Mount Victoria Public School,Victoria St,MOUNT VICTORIA,2786.0,F,2007 Polling Places,"Match 01 - state, premises, postcode",-33.5916,150.254
 NSW,Mount Wilson,Mount Wilson Village Hall,Mount Wilson Rd,MOUNT WILSON,2786.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-33.507,150.366
 NSW,North Richmond,North Richmond Primary School,Grose Vale Rd,NORTH RICHMOND,2754.0,N,2007 Polling Places,"Match 05 - state, polling_place, postcode",-33.5789,150.715
-NSW,RAAF Richmond,ALF Corporal Promotions Centre,Richmond 386ECSS,RAAF RICHMOND,2755.0,N,google geocode,failed,,
+NSW,RAAF Richmond,ALF Corporal Promotions Centre,Richmond 386ECSS,RAAF RICHMOND,2755.0,N,manual,manual,-33.596851,150.78359
 NSW,Richmond,Richmond Public School,Windsor St,RICHMOND,2753.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-33.5993,150.757
 NSW,Richmond High,Richmond High School,Lennox St,RICHMOND,2753.0,A,google geocode,GEOMETRIC_CENTER,-33.6010681,150.7517719
 NSW,St Albans,School of Arts,Upper Macdonald Rd,ST ALBANS,2775.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-32.4121,152.209
@@ -2193,7 +2193,7 @@ NSW,Pottsville Beach,Pottsville Beach Public School,Coast Rd,POTTSVILLE BEACH,24
 NSW,Rous,Rous Public School,Rous Rd,ROUS,2477.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-28.8349,153.45
 NSW,Stokers Siding,Stokers Siding Public School,Stokers Rd,STOKERS SIDING,2484.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-28.393,153.405
 NSW,Terranora,Terranora Public School,Terranora Rd,TERRANORA,2486.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-28.2407,153.498
-NSW,Tintenbar,Tintenbar Public School,Fredericks La,TINTENBAR,2480.0,A,google geocode,failed,,
+NSW,Tintenbar,Tintenbar Public School,Fredericks La,TINTENBAR,2480.0,A,ABS Suburb Centroids,Match 10 - suburb centroid,-28.79064785,153.5263939
 NSW,Tumbulgum,Tumbulgum Public School,Fawcett St,TUMBULGUM,2490.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-28.2745,153.463
 NSW,Tweed Heads,Twin Towns Police Citizens Hall,Florence St,TWEED HEADS,2485.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-28.1755,153.53799999999998
 NSW,Tweed Heads Central,Church of Christ,31 Florence St,TWEED HEADS,2485.0,A,2007 Polling Places,"Match 05 - state, polling_place, postcode",-28.1768,153.54399999999998
@@ -2656,7 +2656,7 @@ QLD,Haigslea,Haigslea State School,Thagoona Haigslea Rd,HAIGSLEA,4306.0,N,2007 P
 QLD,Hatton Vale,Hatton Vale State School,Hannant Road,HATTON VALE,4341.0,F,2007 Polling Places,"Match 01 - state, premises, postcode",-27.5459,152.49200000000002
 QLD,Helidon,Helidon State School,16 School St,HELIDON,4344.0,F,2007 Polling Places,"Match 01 - state, premises, postcode",-27.5545,152.126
 QLD,Inverlaw,Inverlaw Farmers Hall,Kingaroy-Burrandowan Rd,INVERLAW,4610.0,F,2007 Polling Places,"Match 01 - state, premises, postcode",-26.5941,151.718
-QLD,Jimna,Jimna State School,Main St,JIMNA,4515.0,N,google geocode,failed,,
+QLD,Jimna,Jimna State School,Main St,JIMNA,4515.0,N,ABS Suburb Centroids,Match 10 - suburb centroid,-26.68675851,152.5203013
 QLD,Karalee,Karalee State School,A Summervilles Rd,KARALEE,4306.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-27.563000000000002,152.825
 QLD,Karana Downs,Mount Crosby State Pre-School,Mt Crosby Rd,KARANA DOWNS,4306.0,F,2007 Polling Places,"Match 05 - state, polling_place, postcode",-27.5519,152.808
 QLD,Kentville,Kentville State School,Kentville Rd,KENTVILLE,4341.0,F,2007 Polling Places,"Match 01 - state, premises, postcode",-27.4794,152.428
@@ -3578,7 +3578,7 @@ QLD,Glennie Heights,Glennie Heights State School,5 Gillam St,WARWICK,4370.0,F,20
 QLD,Goondiwindi,Goondiwindi Court House,21 Herbert St,GOONDIWINDI,4390.0,N,2010 Polling Places,"Match 02 - state, premises, postcode",-28.5434,150.305
 QLD,Goondiwindi West,Goondiwindi/Waggamba Cultural Centre,Cnr Russell and Short Sts,GOONDIWINDI,4390.0,F,2007 Polling Places,"Match 01 - state, premises, postcode",-28.5378,150.296
 QLD,Guluguba,Guluguba State School,Leichhardt Hwy,GULUGUBA,4418.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-26.2553,150.04399999999998
-QLD,Hannaford,Hannaford State School,Tara-Meandarra Rd,HANNAFORD,4406.0,F,google geocode,failed,,
+QLD,Hannaford,Hannaford State School,Tara-Meandarra Rd,HANNAFORD,4406.0,F,ABS Suburb Centroids,Match 10 - suburb centroid,-27.43823824,150.03343230000002
 QLD,Hebel,Hebel State School,Maud St,HEBEL,4486.0,F,2007 Polling Places,"Match 01 - state, premises, postcode",-28.971999999999998,147.791
 QLD,Inglestone,Inglestone Community Centre Hall,Westmar Rd,INGLESTONE,4422.0,A,2007 Polling Places,"Match 05 - state, polling_place, postcode",-27.9163,149.718
 QLD,Inglewood,Inglewood Civic Centre,Elizabeth St,INGLEWOOD,4387.0,A,2013 Polling Places,"Match 03 - state, premises, postcode",-28.4129,151.08100000000002
@@ -4025,7 +4025,7 @@ SA,Naracoorte,Naracoorte District Council Chambers,De Garis Pl,NARACOORTE,5271.0
 SA,Naracoorte South,Naracoorte South Primary School,Cedar Ave,NARACOORTE,5271.0,F,2007 Polling Places,"Match 01 - state, premises, postcode",-36.9723,140.746
 SA,O B Flat,O B Flat Primary School,O B Flat Rd,O B FLAT,5291.0,N,google geocode,GEOMETRIC_CENTER,-37.89573439999999,140.7748539
 SA,Padthaway,Padthaway Primary School,Vogelsang Rd,PADTHAWAY,5271.0,F,2007 Polling Places,"Match 01 - state, premises, postcode",-36.593,140.497
-SA,Parawa,Parawa Recreation Hall,Range Rd,PARAWA,5204.0,A,google geocode,failed,,
+SA,Parawa,Parawa Recreation Hall,Range Rd,PARAWA,5204.0,A,ABS Suburb Centroids,Match 10 - suburb centroid,-35.56293429,138.3378394
 SA,Parilla,Parilla Institute,Mallee Hwy,PARILLA,5303.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-35.2974,140.67
 SA,Parndana,Parndana Area School,Wedgewood Rd,PARNDANA,5220.0,N,2007 Polling Places,"Match 05 - state, polling_place, postcode",-35.7914,137.264
 SA,Peake,Peake Memorial Hall,Mallee Hwy,PEAKE,5301.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-35.3664,139.952
@@ -4491,7 +4491,7 @@ SA,Owen,Owen Hall,Railway Tce,OWEN,5460.0,F,2010 Polling Places,"Match 02 - stat
 SA,Palmer,Palmer Hall,Mannum Rd,PALMER,5237.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-34.8532,139.161
 SA,Paskeville,Paskeville Primary School,Maitland Rd,PASKEVILLE,5552.0,A,2007 Polling Places,"Match 05 - state, polling_place, postcode",-34.0383,137.901
 SA,Pine Point,Pine Point Institute,Main Rd,PINE POINT,5571.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-34.5694,137.882
-SA,Port Clinton,Port Clinton Hall,Cnr Emu & Cumberland Rds,PORT CLINTON,5555.0,F,google geocode,failed,,
+SA,Port Clinton,Port Clinton Hall,Cnr Emu & Cumberland Rds,PORT CLINTON,5555.0,F,manual,manual,-34.22176,138.021102
 SA,Port Victoria,Port Victoria Institute,Main St,PORT VICTORIA,5573.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-34.4974,137.484
 SA,Port Vincent,Port Vincent Institute,Marine Pde,PORT VINCENT,5581.0,F,2007 Polling Places,"Match 05 - state, polling_place, postcode",-34.7928,137.833
 SA,Port Wakefield,Port Wakefield Soldiers Memorial Hall,Edward St,PORT WAKEFIELD,5550.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-34.1853,138.14600000000002
@@ -4919,7 +4919,7 @@ VIC,Mount Egerton,Mt Egerton Mechanics Hall,Main St,MOUNT EGERTON,3345.0,F,2007 
 VIC,Mount Pleasant,Mt Pleasant Primary School,Cobden St,BALLARAT,3350.0,F,2007 Polling Places,"Match 01 - state, premises, postcode",-37.5776,143.858
 VIC,Mount Wallace,Mt Wallace Public Hall,Hall La,MOUNT WALLACE,3342.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-37.7396,144.218
 VIC,Napoleons,Napoleons Primary School,Ballarat Colac Rd,NAPOLEONS,3352.0,F,2007 Polling Places,"Match 01 - state, premises, postcode",-37.6736,143.832
-VIC,Natte Yallock,Natte Yallock Public Hall,Recreation Rd,NATTE YALLOCK,3465.0,A,google geocode,failed,,
+VIC,Natte Yallock,Natte Yallock Public Hall,Recreation Rd,NATTE YALLOCK,3465.0,A,ABS Suburb Centroids,Match 10 - suburb centroid,-36.94542396,143.4563612
 VIC,Navarre,Navarre Primary School,Stawell Rd,NAVARRE,3384.0,A,google geocode,RANGE_INTERPOLATED,-36.9004083,143.0984804
 VIC,Newington,Urquhart Park Primary School,49 Inkerman St,BALLARAT,3350.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-37.5666,143.83100000000002
 VIC,Newlyn,Newlyn Primary School,Midland Hwy,NEWLYN,3364.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-37.4113,143.984
@@ -5653,7 +5653,7 @@ VIC,Kergunyah,Kergunyah Public Hall,Gundowring Rd,KERGUNYAH,3691.0,F,2007 Pollin
 VIC,Kiewa,Kiewa Parish Hall,Huon Rd,KIEWA,3691.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-36.255,147.005
 VIC,Londrigan,Carraragarmungee Primary School,RMB 6940 Eldorado Rd,LONDRIGAN,3678.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-36.3315,146.451
 VIC,Lurg,Lurg Public Hall,Winton Rd,LURG,3673.0,F,2007 Polling Places,"Match 01 - state, premises, postcode",-36.5855,146.132
-VIC,Markwood,Markwood Primary School,RMB 2505 Glenrowan-Myrtleford Rd,MARKWOOD,3678.0,A,google geocode,failed,,
+VIC,Markwood,Markwood Primary School,RMB 2505 Glenrowan-Myrtleford Rd,MARKWOOD,3678.0,A,ABS Suburb Centroids,Match 10 - suburb centroid,-36.47303023,146.5088116
 VIC,Milawa,Milawa Primary School,Factory Rd,MILAWA,3678.0,F,2007 Polling Places,"Match 05 - state, polling_place, postcode",-36.4496,146.431
 VIC,Molyullah,Molyullah Memorial Hall,Centre Rd,MOLYULLAH,3673.0,F,2007 Polling Places,"Match 01 - state, premises, postcode",-36.6307,146.164
 VIC,Mongans Bridge,St Albans Parish Hall,Kiewa Valley Hwy,MONGANS BRIDGE,3691.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-36.5419,147.05700000000002
@@ -6630,7 +6630,7 @@ WA,Yangebup,Yangebup Primary School,Moorhen Dr,YANGEBUP,6164.0,A,2007 Polling Pl
 WA,Yangebup South,MacKillop Catholic Primary School,340 Yangebup Rd,YANGEBUP,6164.0,A,2007 Polling Places,"Match 05 - state, polling_place, postcode",-32.1253,115.82600000000001
 WA,Ajana,Ajana Hall,Off Ajana-Kalbarri Road,AJANA,6532.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-27.9494,114.609
 WA,Argyle,Argyle SMQ,Argyle Village,ARGYLE,6239.0,F,2007 Polling Places,"Match 05 - state, polling_place, postcode",-16.7091,128.295
-WA,Balgo,Balgo Catholic School,Balgo PMB 2 Via,HALLS CREEK,6770.0,A,google geocode,failed,,
+WA,Balgo,Balgo Catholic School,Balgo PMB 2 Via,HALLS CREEK,6770.0,A,ABS Suburb Centroids,Match 10 - suburb centroid,-18.22448803,127.67318999999999
 WA,Bodallin,Bodallin Primary School,Great Eastern Hwy,BODALLIN,6424.0,A,google geocode,GEOMETRIC_CENTER,-31.3668211,118.873604
 WA,Boulder,Boulder Town Hall,Burt Street,BOULDER,6432.0,A,2007 Polling Places,"Match 05 - state, polling_place, postcode",-30.7815,121.485
 WA,Broome,Broome Shire Hall,Weld St,BROOME,6725.0,F,2007 Polling Places,"Match 01 - state, premises, postcode",-17.96,122.23899999999999
@@ -6677,7 +6677,7 @@ WA,Kununurra,Kununurra Leisure Centre,Coolibah Dr,KUNUNURRA,6743.0,F,2010 Pollin
 WA,Laverton,Laverton Shire Hall,MacPherson Place,LAVERTON,6440.0,A,2007 Polling Places,"Match 05 - state, polling_place, postcode",-28.6265,122.40299999999999
 WA,Leinster,Leinster Community Hall,Link Road,LEINSTER,6437.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-27.9148,120.699
 WA,Leonora,Leonora Recreation Centre,Tower Street,LEONORA,6438.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-28.881,121.331
-WA,Looma,Looma District High School,PMB 904,DERBY,6728.0,N,google geocode,failed,,
+WA,Looma,Looma District High School,PMB 904,DERBY,6728.0,N,ABS Suburb Centroids,Match 10 - suburb centroid,-17.37835651,123.66748490000002
 WA,Marble Bar,Marble Bar Shire Office,Francis St,MARBLE BAR,6760.0,A,2007 Polling Places,"Match 05 - state, polling_place, postcode",-21.1727,119.74600000000001
 WA,Marvel Loch,Marvel Loch Primary School,King Street,MARVEL LOCH,6426.0,N,2007 Polling Places,"Match 05 - state, polling_place, postcode",-31.46,119.49
 WA,Meekatharra,Meekatharra Shire Hall,Savage Street,MEEKATHARRA,6642.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-26.593000000000004,118.49600000000001
@@ -6694,7 +6694,7 @@ WA,Muntadgin,Muntadgin Primary School,Crosslands Street,MUNTADGIN,6420.0,A,2007 
 WA,Nabawa,Nabawa (Chapman Valley) Shire Office,Chapman Valley Rd,NABAWA,6532.0,A,2007 Polling Places,"Match 05 - state, polling_place, postcode",-28.4967,114.81
 WA,Newman,Newman High school,Gregory Ave,NEWMAN,6753.0,F,2007 Polling Places,"Match 05 - state, polling_place, postcode",-23.3617,119.734
 WA,Newman North,Newman Primary School,Hilditch Ave,NEWMAN,6753.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-23.3542,119.73200000000001
-WA,Noonkanbah,Kulkarriya Community School (Noonkanbah),Noonkanbah Community,FITZROY CROSSING,6765.0,A,google geocode,failed,,
+WA,Noonkanbah,Kulkarriya Community School (Noonkanbah),Noonkanbah Community,FITZROY CROSSING,6765.0,A,manual,manual,-18.509939,124.8256
 WA,Norseman,Norseman Court House,Prinsep Street,NORSEMAN,6443.0,A,2010 Polling Places,"Match 02 - state, premises, postcode",-32.1975,121.779
 WA,Northampton,Northampton District Bowling Club,Hampton Rd,NORTHAMPTON,6535.0,A,2007 Polling Places,"Match 05 - state, polling_place, postcode",-28.3481,114.635
 WA,Nullagine,Nullagine Primary School,1 Clementson St,NULLAGINE,6758.0,A,2007 Polling Places,"Match 05 - state, polling_place, postcode",-21.8872,120.10600000000001
@@ -6711,10 +6711,10 @@ WA,Southern Cross,Yilgarn Recreation Centre,Cnr Spica & Canopus Sts,SOUTHERN CRO
 WA,South Hedland,South Hedland Primary School,Weaver Pl,SOUTH HEDLAND,6722.0,A,2007 Polling Places,"Match 05 - state, polling_place, postcode",-20.3922,118.601
 WA,South Hedland Baler,South Hedland Baler Primary School,Baler Close,SOUTH HEDLAND,6722.0,N,2007 Polling Places,"Match 01 - state, premises, postcode",-20.4037,118.613
 WA,Tardun,Tardun Post Office,Railway Parade,TARDUN,6628.0,A,2007 Polling Places,"Match 05 - state, polling_place, postcode",-28.7917,115.75
-WA,Telfer,Telfer Messing Facilities,Newcrest Mining Limited,TELFER,6762.0,N,google geocode,failed,,
+WA,Telfer,Telfer Messing Facilities,Newcrest Mining Limited,TELFER,6762.0,N,ABS Suburb Centroids,Match 10 - suburb centroid,-21.20868767,123.2605902
 WA,Tom Price,Tom Price Primary School,Wattle Street,TOM PRICE,6751.0,F,2007 Polling Places,"Match 05 - state, polling_place, postcode",-22.6868,117.79299999999999
 WA,Useless Loop,Useless Loop Primary School,Wilsons Rise,USELESS LOOP,6532.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-26.1347,113.414
-WA,Wangkatjungka,Wangkatjungka School (Christmas Creek),Wangkatjungka Community School,FITZROY CROSSING,6765.0,N,google geocode,failed,,
+WA,Wangkatjungka,Wangkatjungka School (Christmas Creek),Wangkatjungka Community School,FITZROY CROSSING,6765.0,N,manual,manual,-18.879009,125.9179
 WA,Warmun,Warmun Community Centre,Warmun Aboriginal Community,WARMUN,6740.0,A,2007 Polling Places,"Match 01 - state, premises, postcode",-17.0336,128.224
 WA,Westonia,Westonia Primary School,Cnr Gold/Diorite Street,WESTONIA,6423.0,A,2007 Polling Places,"Match 05 - state, polling_place, postcode",-31.3009,118.697
 WA,Wickham,Wickham High School,Tamarind Pl,WICKHAM,6720.0,F,2007 Polling Places,"Match 05 - state, polling_place, postcode",-20.6774,117.14200000000001
