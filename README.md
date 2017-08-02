@@ -200,7 +200,7 @@ Don't save this code in a notebook you use, it's bad practice to have code and k
 
 ## Authors
 
-* **Jake Clarke** - [jaketclarke](https://github.com/jaketclarke)(jake at theredfox dot group)
+* **Jake Clarke** - [jaketclarke](https://github.com/jaketclarke) - jake at theredfox dot group
 
 ## License
 
