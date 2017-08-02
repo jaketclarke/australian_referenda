@@ -1,0 +1,58 @@
+Referendum: 6 November 1999					
+Polling Places					
+					
+Northern Territory					
+Northern Terriory					
+					Wheelchair
+Polling Place Name	Premises	Address	Suburb	Postcode	Access
+Alice Springs	Civic Centre (Foyer)	Todd St	ALICE SPRINGS	870	F
+Alyangula	Alyangula Area School	Flinders St	ALYANGULA	885	F
+Anula	Anula Primary School	Yanyula Dr	ANULA	812	A
+Bakewell	Bakewell Primary School	Hutchison Tce	PALMERSTON	830	F
+Batchelor	Batchelor Area School	Nurndina St	BATCHELOR	845	F
+Berrimah	Kormilda College	1 Berrimah Rd	BERRIMAH	828	F
+Berry Springs	Berry Springs Primary School	Cox Peninsula Rd	BERRY SPRINGS
+	837	F
+Braitling	Braitling Primary School	Head St	ALICE SPRINGS	870	F
+Casuarina	Casuarina Senior College	61 Moil Cres	MOIL	810	F
+Christmas Island	Christmas Island Community Hall		CHRISTMAS ISLAND
+	6798	A
+Darwin	Darwin Entertainment Centre	Mitchell Street	DARWIN	800	F
+Driver	Palmerston High School	Tilston Ave	PALMERSTON	830	F
+Durack	Durack Primary School	Woodlake Blvd	PALMERSTON	830	F
+Gillen	Gillen Primary School Hall	Milner Rd	ALICE SPRINGS	870	F
+Gray	Sacred Heart Primary School	Emery Ave	PALMERSTON	830	F
+Home Island	Home Island Community Hall		COCOS ISLANDS	6799	A
+Howard Springs	Howard Springs Community Hall	Whitewood Rd	HOWARD SPRINGS
+	835	F
+Humpty Doo	Taminmin High School	Challenor Crct	HUMPTY DOO	836	F
+Jabiru	Jabiru Town Council Community Hall	Van Delft St	JABIRU
+	886	F
+Karama	O'Loughlin Catholic College	Mueller Rd	KARAMA	812	F
+Katherine	Katherine Training Network	Second Street	KATHERINE	850	F
+Katherine East	MacFarlane Pre School	Grevillea Rd	KATHERINE	850	F
+Larapinta	Living Waters Lutheran School	Albrecht Dr	ALICE SPRINGS	870	F
+Larrakeyah	Larrakeyah Pre School	Packard St	LARRAKEYAH	800	F
+Leanyer	Leanyer Primary School	Leanyer Dr	LEANYER	812	F
+Ludmilla	Ludmilla Primary School	Bagot Rd	LUDMILLA	820	F
+Moulden	Moulden Park Primary School	Bonson Tce	PALMERSTON	830	F
+Nakara	Nakara Primary School	Goodman St	NAKARA	810	A
+Nhulunbuy	Nhulunbuy Primary School	Chesterfield Crct	NHULUNBUY	880	F
+Nightcliff	Nightcliff High School	Ryland Rd	RAPID CREEK	810	F
+Parap	Parap Girl Guide Hall	55 Ross Smith Ave	PARAP	820	F
+Pine Creek	Community Hall	55 Moule St	PINE CREEK	847	F
+Railway Side	Tangentyere Council	3 Kidman St	ALICE SPRINGS	870	A
+Rapid Creek	St Pauls School	Francis St	NIGHTCLIFF	810	F
+Sadadeen	Christian Community Centre	32 Undoolya Rd	ALICE SPRINGS
+	870	F
+Stuart Park	Stuart Park Pre School	Nudl St	STUART PARK	820	A
+Tennant Creek	Tennant Creek High School	Stuart Street	TENNANT CREEK
+	860	F
+Tindal	Community Centre	Newham Crct	TINDAL RAAF	853	F
+Tiwi	Dripstone High School	Delamere St	TIWI	810	F
+Wanguri	Wanguri Primary School	Gsell St	WANGURI	810	F
+West Island	West Island Cyclone Shelter		COCOS ISLANDS	6799	A
+Woodroffe	Woodroffe Primary School	Woodroffe Ave	PALMERSTON	830	F
+Wulagi	Wulagi Primary School	Brolga St	WULAGI	812	F
+Yirara	Yirara College	South Stuart Hwy	ALICE SPRINGS	870	F
+Yulara	Yulara Centralian College		YULARA	872	F

@@ -1,0 +1,95 @@
+Referendum: 6 November 1999					
+Polling Places					
+					
+Australian Capital Territory					
+Canberra					
+					Wheelchair
+Polling Place Name	Premises	Address	Suburb	Postcode	Access
+Bonython	Bonython Primary School	Hurtle Ave	BONYTHON	2905	F
+Calwell	Calwell High School	Casey Cres	CALWELL	2905	F
+Canberra Hospital	The Canberra Hospital	Blding 2 Level 3 Yamba Dr	GARRAN
+	2605	F
+Chapman	Chapman Primary School	Perry Dr	CHAPMAN	2611	F
+Chifley	Melrose Primary School	Maclaurin Cres	CHIFLEY	2606	A
+Chisholm	Chisholm Primary School	Hambidge Cres	CHISHOLM	2905	A
+Conder	Charles Conder Primary School	Tom Roberts Ave	CONDER	2906	F
+Curtin	Curtin Primary School	Theodore St	CURTIN	2605	A
+Deakin	CCEGGS Senior School	Melbourne Ave	DEAKIN	2600	N
+Duffy	Duffy Primary School	Burrinjuck Cres	DUFFY	2611	F
+Fadden	Fadden Primary School	Hanlon Cres	FADDEN	2904	F
+Farrer	Farrer Primary School	Lambrigg St	FARRER	2607	A
+Gilmore	Gilmore Primary School	Heagney Cres	GILMORE	2905	F
+Gordon	Gordon Primary School	Knoke St	GORDON	2906	F
+Gowrie	Gowrie Primary School	Jeffries St	GOWRIE	2904	F
+Holder	St. Judes Primary School	Mulley St	HOLDER	2611	A
+Hughes	Hughes Primary School	Kent St	HUGHES	2605	F
+Isabella Plains	Isabella Plains Primary School	Ellerston Ave	ISABELLA 
+PLAINS	2905	F
+Kambah East	Village Creek Primary School	Kingsmill St	KAMBAH	2902	F
+Kambah North	Taylor Primary School	Marconi Cres	KAMBAH	2902	F
+Kambah South	Urambi Primary School	O'Halloran Crct	KAMBAH	2902	F
+Kambah West	Mount Neighbour Primary School	Boddington Cres	KAMBAH
+	2902	F
+Lyons	Lyons Primary School	Tarraleah Cres	LYONS	2606	F
+Mawson	Mawson Primary School	Ainsworth St	MAWSON	2607	A
+Monash	Monash Primary School	Corlette Cres	MONASH	2904	A
+Oaks Estate	Oaks Estate Community Hall	William St	OAKS ESTATE	2620	F
+Pearce	Melrose High School	Marr St	PEARCE	2607	A
+Red Hill	Red Hill Primary School	Astrolabe St	RED HILL	2603	A
+Richardson	Richardson Primary School	May Gibbs Cl	RICHARDSON	2905	F
+Rivett	Rivett Primary School	Bangalay Cres	RIVETT	2611	F
+Tharwa	Tharwa Primary School		THARWA	2620	N
+Theodore	Theodore Primary School	Lawrence Wackett Cres	THEODORE	2905	F
+Wanniassa	Wanniassa Primary School	Sternberg Cres	WANNIASSA	2903	A
+Wanniassa Hills	Wanniassa Hills Primary School	Langdon Ave	WANNIASSA
+	2903	A
+Waramanga	Arawang Primary School	Nemarang Cres	WARAMANGA	2611	F
+Weston	Weston Primary School	Hilder St	WESTON	2611	F
+Yarralumla	Yarralumla Primary School	Loftus St	YARRALUMLA	2600	F
+
+
+Fraser					
+					Wheelchair
+Polling Place Name	Premises	Address	Suburb	Postcode	Access
+Ainslie	Ainslie Primary School	Elder St	BRADDON	2601	N
+Ainslie North	North Ainslie Primary School	Sherbrooke St	AINSLIE
+	2602	A
+Aranda	Aranda Primary School	Banambila St	ARANDA	2614	N
+Baker Gardens	Ainslie Pre School	Baker Gardens	AINSLIE	2602	N
+Barton	Telopea Park School	New South Wales Cres	BARTON	2600	F
+Belconnen	Lake Ginninderra College	Emu Bank	BELCONNEN	2617	N
+Bruce	Calvary Hospital	Haydon Dr	BRUCE	2617	F
+Campbell	Campbell Primary School	Chauvel St	CAMPBELL	2601	N
+Charnwood	St Thomas Aquinas Primary School	Lhotsky St	CHARNWOOD	2615	F
+City	Pilgrim House	69 Northbourne Ave	CANBERRA CITY	2601	F
+Dickson	Daramalan College	Cowper St	DICKSON	2602	A
+Downer	Downer Community Centre	Frencham Pl	DOWNER	2602	A
+Evatt	Evatt Primary School	Heydon Cres	EVATT	2617	F
+Evatt South	Miles Franklin Primary School	Alderman St	EVATT	2617	F
+Florey	St Francis Xavier High School	Barnard Crct	FLOREY	2615	A
+Flynn	Flynn Primary School	Bingle St	FLYNN	2615	N
+Giralang	Giralang Primary School	Canopus Cres	GIRALANG	2617	F
+Griffith	O'Connell Centre	Stuart St	GRIFFITH	2603	F
+Hall	Hall Primary School	Hoskins St	HALL	2618	N
+Higgins	Higgins Primary School	Fullagar Cres	HIGGINS	2615	F
+Holt	Holt Primary School	Beaurepaire Cres	HOLT	2615	N
+Jervis Bay	Jervis Bay Primary School	Dykes Ave	JERVIS BAY	2540	N
+Kaleen	Kaleen Primary School	Ashburton St	KALEEN	2617	F
+Kaleen South	Maribyrnong Primary School	Alberga St	KALEEN	2617	F
+Latham	Latham Primary School	O'Loghlen St	LATHAM	2615	N
+Lyneham	Lyneham Primary School	Hall St	LYNEHAM	2602	N
+Macgregor	Macgregor Primary School	Hirschfeld Cres	MACGREGOR	2615	N
+Macquarie	Macquarie Primary School	Bennelong Cres	MACQUARIE	2614	N
+Melba	Mt Rogers Community School	Alfred Hill Dr	MELBA	2615	F
+Narrabundah	Narrabundah Primary School	Kootara Cres	NARRABUNDAH	2604	N
+Ngunnawal	Ngunnawal Primary School	Unaipon Ave	NGUNNAWAL	2913	F
+Nicholls	Nicholls Primary School	Kelleway Ave	NICHOLLS	2913	N
+Page	St Matthew's School	Stutchbury St	PAGE	2614	F
+Palmerston	Palmerston Primary School	Kosciusko Ave	PALMERSTON	2913	F
+Reid	Uniting Church Hall	54 Coranderrk St	REID	2612	N
+Scullin	Southern Cross Primary School	Ross Smith Cres	SCULLIN	2614	N
+Spence	Former Spence Primary School	Crofts Cres	SPENCE	2615	N
+Turner	Turner Primary School	Condamine St	TURNER	2601	F
+Watson	Majura Primary School	Irvine St	WATSON	2602	F
+Weetangera	Weetangera Primary School	Southwell St	WEETANGERA	2614	N
+Wreck Bay	Community Office	Wreck Bay Rd	WRECK BAY	2540	N
