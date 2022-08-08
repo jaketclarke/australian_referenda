@@ -9,6 +9,12 @@ pandas = "*"
 ipython = "*"
 ipykernel = "*"
 plotly = "*"
+chart-studio = "*"
+statsmodels = "*"
+fiona = "*"
+geopandas = "*"
+geometry = "*"
+matplotlib = "*"
 
 [dev-packages]
 
