@@ -12,6 +12,27 @@ Some interesting tidbits include that you can explain 56% of the variation in su
 Matching the results of the Republic Referendum to the results of the 2016 Federal Election, I show that you can explain 19% of the variation in 2016 Labor Two-Party vote with the results of the 1999 Republic Referendum:
 ![out2](img/out2.png)
 
+## Getting Started
+
+- pipenv for virtual environment, setup taken from this guide https://hackernoon.com/reaching-python-development-nirvana-bb5692adf30c, as well as https://dev.to/py3course/setting-up-a-python-environment-in-2020-3e9e
+- pyenv for python versioning, setup here https://github.com/pyenv/pyenv
+install via `curl https://pyenv.run | bash`
+
+add this to ~/.bashrc:
+
+export PATH="$HOME/.pyenv/bin:$PATH"
+export PATH="$PYENV_ROOT/bin:$PATH"
+
+if command -v pyenv 1>/dev/null 2>&1; then
+    eval "$(pyenv init -)"
+fi
+
+eval "$(pyenv init --path)"
+eval "$(pyenv init -)"
+
+- I use this vscode extension to remotely run python https://code.visualstudio.com/docs/remote/wsl-tutorial
+- To get jupyter going in a pipenv https://towardsdatascience.com/how-to-use-pipenv-with-jupyter-and-vscode-ae0e970df486
+
 ### Some details
 
 This code is written in Python 3, and is implemented in Jupyter Notebooks.
